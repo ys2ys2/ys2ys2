@@ -1,8 +1,16 @@
-# 진영신 ys2ys2._. 🌕🐣 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fys2ys2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+
+# 진영신 ys2ys2._. 🌕🐣 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fys2ys2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+</div>
+
 <br>
 <div align="center">
 <p>😊Introduction</p>
-Full-Stack Developer <br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=96B4DC&width=435&lines=Full-Stack+Developer)
+
+<br>
 안녕하세요! 풀스택 개발자가 되기 위해서 열심히 배우고 있습니다!<br>
 <br>
 <p>✔️Skills</p>
@@ -22,11 +30,12 @@ Full-Stack Developer <br>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=DBeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 
 
-<br><br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys2ys2&layout=donut) <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys2ys2&layout=donut)<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys2ys2&show_icons=true&theme=radical)
 
