@@ -1,4 +1,4 @@
-## Hi there 👋
+# 진영신 ys._.👋
 
 <!--
 **ys2ys2/ys2ys2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
