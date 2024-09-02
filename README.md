@@ -10,22 +10,22 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=96B4DC&width=190&lines=Full-Stack+Developer)
 <br>
-안녕하세요! 풀스택 개발자가 되기 위해서 열심히 배우고 있습니다!<br>
+<h5>안녕하세요! 풀스택 개발자가 되기 위해서 열심히 배우고 있습니다!</h5><br>
 <br>
-<p>✔️Tech Stack</p>
+<h4>✔️Tech Stack</h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <br><br>
-<p>✏️Studying</p>
+<h4>✏️Studying</h4>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <br><br>
-<p>🛠️Tools</p>
+<h4>🛠️Tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
