@@ -8,7 +8,6 @@
 <div align="center">
 <p>😊Introduction</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=1000&color=96B4DC&width=190&lines=Full-Stack+Developer)
 <br>
 <h5>안녕하세요! 포기하지 않는 개발자가 되기 위해서 열심히 배우고 있습니다!</h5><br>
 <br>
