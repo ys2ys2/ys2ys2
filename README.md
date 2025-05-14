@@ -6,10 +6,10 @@
 
 <br>
 <div align="center">
-<p>😊Introduction</p>
+<!-- <p>😊Introduction</p>
 
 <br>
-<h5>안녕하세요! 포기하지 않는 개발자가 되기 위해서 열심히 배우고 있습니다!</h5><br>
+<h5>안녕하세요! 포기하지 않는 개발자가 되기 위해서 열심히 배우고 있습니다!</h5><br> -->
 <br>
 <h4>✔️Tech Stack</h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
