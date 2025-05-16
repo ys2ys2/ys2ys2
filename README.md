@@ -1,16 +1,13 @@
 <div align="center">
 
-# 진영신 ys2ys2._. 🌕🐣 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fys2ys2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) -->
-
-</div>
-
+# 진영신 ys2ys2._. 🐣 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fys2ys2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) -->
 <br>
-<div align="center">
-<!-- <p>😊Introduction</p>
 
-<br>
-<h5>안녕하세요! 포기하지 않는 개발자가 되기 위해서 열심히 배우고 있습니다!</h5><br> -->
-<br>
+<h4>Junior Developer</h4>
+  <h5>25.03 ~ </h5>
+
+<br><br>
+
 <h4>✔️Tech Stack</h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -28,6 +25,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+
 <br><br>
 <h4>🛠️Tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
