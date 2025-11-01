@@ -13,18 +13,27 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 
 <br><br>
 <h4>✏️Studying</h4>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROCm-EA1E63?style=flat-square&logo=AMD&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+
+<!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> -->
 
 <br><br>
 <h4>🛠️Tools</h4>
@@ -35,12 +44,13 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=DBeaver&logoColor=white"/>
 
 <br><br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys2ys2&layout=donut)<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys2ys2&show_icons=true&theme=radical)<br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys2ys2&show_icons=true&theme=radical)<br> -->
 
 ![ys2ys2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ys2ys2&theme=github-compact)
 
