@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/>
 <img src="https://img.shields.io/badge/excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=DBeaver&logoColor=white"/>
+<img src="https://img.shields.io/badge/M4-000000?style=flat-square&logo=Apple&logoColor=white"/>
 
 <br><br><br>
 
