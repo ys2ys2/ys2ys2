@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROCm-EA1E63?style=flat-square&logo=AMD&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+
 
 <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> -->
