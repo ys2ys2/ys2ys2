@@ -9,7 +9,7 @@
 <br><br>
 
 <h4>✔️Tech Stack</h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -17,6 +17,12 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROCm-EA1E63?style=flat-square&logo=AMD&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
+
 
 <br><br>
 <h4>✏️Studying</h4>
@@ -52,6 +58,7 @@
 <img src="https://img.shields.io/badge/excalidraw-6965DB?style=flat&logo=excalidraw&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=DBeaver&logoColor=white"/>
 <img src="https://img.shields.io/badge/M4-000000?style=flat-square&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 
 <br><br><br>
 
