@@ -63,7 +63,7 @@
 
 <br><br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys2ys2&layout=donut)<br>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys2ys2&layout=donut)<br> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys2ys2&show_icons=true&theme=radical)<br> -->
 
