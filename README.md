@@ -19,7 +19,9 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROCm-EA1E63?style=flat-square&logo=AMD&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIGraphX-000000?style=flat-square&logo=AMD&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
@@ -30,7 +32,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=OpenAI&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROCm-EA1E63?style=flat-square&logo=AMD&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIGraphX-000000?style=flat-square&logo=AMD&logoColor=white"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
@@ -66,9 +70,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys2ys2&layout=donut)<br> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys2ys2&show_icons=true&theme=radical)<br> -->
-
-![ys2ys2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ys2ys2&theme=github-compact)
-
 
 </div>
 
