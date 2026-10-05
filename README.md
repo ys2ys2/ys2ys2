@@ -53,6 +53,12 @@
 <!-- <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> -->
 
 <br><br>
+
+<h4>🏅Certifications</h4>
+<a href="https://academy.claude.com/verify/e9650f27da448869a67e830f7e197c1c">
+<img src="https://img.shields.io/badge/Claude%20Platform%20101-D97757?style=flat&logo=anthropic&logoColor=white"/>
+</a>
+
 <h4>🛠️Tools</h4>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
