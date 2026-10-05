@@ -56,7 +56,10 @@
 
 <h4>🏅Certifications</h4>
 <a href="https://academy.claude.com/verify/e9650f27da448869a67e830f7e197c1c">
-<img src="https://img.shields.io/badge/Claude%20Platform%20101-D97757?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Platform%20101-D97757?style=flat&logo=anthropic&logoColor=white"/>
+</a>
+<a href="https://academy.claude.com/verify/752b5baafe957ccac3aff91438d0a061">
+  <img src="https://img.shields.io/badge/Building%20with%20the%20Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white"/>
 </a>
 
 <h4>🛠️Tools</h4>
